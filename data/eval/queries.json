@@ -1,0 +1,47 @@
+[
+    {
+        "query_id": "Q1",
+        "query_case_id_asli": "27-k/pm.i-02/ad/ill/2025",
+        "query_text": "secara bersama-sama melakukan penipuan...",
+        "ground_truth_case_id": [
+            "62-k/pm.ii-09/au/lv/2025",
+            "65-k/pm.ii-09/ad/iv/2025"
+        ]
+    },
+    {
+        "query_id": "Q2",
+        "query_case_id_asli": "91-k/pm",
+        "query_text": "desersi dimasa damai...",
+        "ground_truth_case_id": [
+            "32-k/pm",
+            "36-k/pm.i-02/au/iv/2025"
+        ]
+    },
+    {
+        "query_id": "Q3",
+        "query_case_id_asli": "55-k/pm.i-02/ad/vi/2021",
+        "query_text": "barangsiapa mengadakan perkawinan padahal mengetahui bahwa perkawinan atau perkawinan- perkawinannya yang telah ada menjadi penghalang yang sah untuk ...",
+        "ground_truth_case_id": [
+            "6-p/pm.ii-09/ad/vi/2025",
+            "74"
+        ]
+    },
+    {
+        "query_id": "Q4",
+        "query_case_id_asli": "52-k/pm.ii-09/ad/ili/2025",
+        "query_text": "militer yang karena salahnya atau dengan sengaja melakukan ketidakhadiran tanpa izin dalam waktu damai lebih lama dari tiga puluh hari...",
+        "ground_truth_case_id": [
+            "62-k/pm.ii-09/au/lv/2025",
+            "29-k/pmt.i/bdg/ad/iv/2025"
+        ]
+    },
+    {
+        "query_id": "Q5",
+        "query_case_id_asli": "363",
+        "query_text": "korupsi yang dilakukan secara bersama-sama dan sendiri-sendiri...",
+        "ground_truth_case_id": [
+            "62-k/pm.ii-09/au/lv/2025",
+            "65-k/pm.ii-09/ad/iv/2025"
+        ]
+    }
+]

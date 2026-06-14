@@ -1,0 +1,37 @@
+=== LOG CLEANING TAHAP 1.ii ===
+Waktu Eksekusi: 2026-06-11 09:35:20
+=================================================================
+File: case_001.txt    | Kotor: 84342  chars | Bersih: 83781  chars | Keutuhan: 99.33% | Status: VALID
+File: case_002.txt    | Kotor: 37975  chars | Bersih: 37680  chars | Keutuhan: 99.22% | Status: VALID
+File: case_003.txt    | Kotor: 57127  chars | Bersih: 56737  chars | Keutuhan: 99.32% | Status: VALID
+File: case_004.txt    | Kotor: 5468   chars | Bersih: 5468   chars | Keutuhan: 100.00% | Status: VALID
+File: case_005.txt    | Kotor: 66277  chars | Bersih: 65830  chars | Keutuhan: 99.33% | Status: VALID
+File: case_006.txt    | Kotor: 75961  chars | Bersih: 75476  chars | Keutuhan: 99.36% | Status: VALID
+File: case_007.txt    | Kotor: 57779  chars | Bersih: 57408  chars | Keutuhan: 99.36% | Status: VALID
+File: case_008.txt    | Kotor: 3575   chars | Bersih: 3541   chars | Keutuhan: 99.05% | Status: VALID
+File: case_009.txt    | Kotor: 414603 chars | Bersih: 414603 chars | Keutuhan: 100.00% | Status: VALID
+File: case_010.txt    | Kotor: 76909  chars | Bersih: 76405  chars | Keutuhan: 99.34% | Status: VALID
+File: case_011.txt    | Kotor: 42689  chars | Bersih: 42413  chars | Keutuhan: 99.35% | Status: VALID
+File: case_012.txt    | Kotor: 16216  chars | Bersih: 16080  chars | Keutuhan: 99.16% | Status: VALID
+File: case_013.txt    | Kotor: 67107  chars | Bersih: 67107  chars | Keutuhan: 100.00% | Status: VALID
+File: case_014.txt    | Kotor: 83216  chars | Bersih: 82674  chars | Keutuhan: 99.35% | Status: VALID
+File: case_015.txt    | Kotor: 55509  chars | Bersih: 55509  chars | Keutuhan: 100.00% | Status: VALID
+File: case_016.txt    | Kotor: 54657  chars | Bersih: 54657  chars | Keutuhan: 100.00% | Status: VALID
+File: case_017.txt    | Kotor: 4165   chars | Bersih: 4131   chars | Keutuhan: 99.18% | Status: VALID
+File: case_018.txt    | Kotor: 62284  chars | Bersih: 61875  chars | Keutuhan: 99.34% | Status: VALID
+File: case_019.txt    | Kotor: 64863  chars | Bersih: 64359  chars | Keutuhan: 99.22% | Status: VALID
+File: case_020.txt    | Kotor: 316076 chars | Bersih: 316076 chars | Keutuhan: 100.00% | Status: VALID
+File: case_021.txt    | Kotor: 83877  chars | Bersih: 83877  chars | Keutuhan: 100.00% | Status: VALID
+File: case_022.txt    | Kotor: 62699  chars | Bersih: 62699  chars | Keutuhan: 100.00% | Status: VALID
+File: case_023.txt    | Kotor: 145067 chars | Bersih: 144107 chars | Keutuhan: 99.34% | Status: VALID
+File: case_024.txt    | Kotor: 110755 chars | Bersih: 110755 chars | Keutuhan: 100.00% | Status: VALID
+File: case_025.txt    | Kotor: 30392  chars | Bersih: 30392  chars | Keutuhan: 100.00% | Status: VALID
+File: case_026.txt    | Kotor: 74979  chars | Bersih: 74494  chars | Keutuhan: 99.35% | Status: VALID
+File: case_027.txt    | Kotor: 3120   chars | Bersih: 3086   chars | Keutuhan: 98.91% | Status: VALID
+File: case_028.txt    | Kotor: 257014 chars | Bersih: 257014 chars | Keutuhan: 100.00% | Status: VALID
+File: case_029.txt    | Kotor: 17494  chars | Bersih: 17341  chars | Keutuhan: 99.13% | Status: VALID
+File: case_030.txt    | Kotor: 144075 chars | Bersih: 143056 chars | Keutuhan: 99.29% | Status: VALID
+File: case_031.txt    | Kotor: 3044   chars | Bersih: 3010   chars | Keutuhan: 98.88% | Status: VALID
+=================================================================
+Total File Awal  : 31
+Total File Valid : 31
