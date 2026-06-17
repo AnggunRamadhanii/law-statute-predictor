@@ -1,2 +1,2 @@
-Metric,Score
-Hit Rate @ 5,0.8
+Model,Accuracy,Precision,Recall,F1-Score
+Retrieval (Top-5),0.7754237288135594,0.3705519156531393,0.7124923545666579,0.4729355535647981

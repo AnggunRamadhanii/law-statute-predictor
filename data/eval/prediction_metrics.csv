@@ -1,2 +1,2 @@
-Model,Accuracy (Jaccard),Precision,Recall,F1-Score
-TF-IDF + Cosine Similarity,0.2145131294144452,0.4444444444444444,0.23255813953488372,0.3053435114503817
+Model,Accuracy,Precision,Recall,F1-Score
+Final Prediction (Majority Vote),0.2145,0.4494,0.2326,0.3065
