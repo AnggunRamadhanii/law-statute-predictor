@@ -63,5 +63,6 @@ Successful execution generates:
 ---
 ## 👥 Contributors / Team Members
 - Anggun Ramadhani (202310370311077)
+- Ika kurniati (202310370311381)
 
 
